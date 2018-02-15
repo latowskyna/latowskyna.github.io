@@ -1,5 +1,13 @@
 ---
-title: "About This Website"
+title: "About Nile LaTowsky"
 ---
 
-More about this website.NILE IS INCREDBILE
+Currently, I am just trying to graduate from Appalachian State University with a degree in Psychology and a minor in Statistics.  After College I am setting my sights towards earning a certification in being an E.M.T.
+
+Here is a link to my [personal email](https://mail.google.com/mail/u/0/#inbox), enjoy!!!
+
+And my [GitHub](github.com/latowskyna/latowskyna.github.io)
+
+<figure align = "middle">
+<img src ="DSC_0813.jpg" alt = "Nile" style = "width:300px; height:500px;">
+</figure>

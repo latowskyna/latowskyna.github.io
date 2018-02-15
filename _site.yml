@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Other"
-      href: other.html
+    - text: "Thesis"
+      href: Project.html
 output:
   html_document:
     theme: yeti
