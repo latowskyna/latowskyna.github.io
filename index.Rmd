@@ -1,0 +1,11 @@
+---
+title: "My Website"
+---
+
+Hello, Website!SEND HELP CODING IS A CURSED BLESSING
+```{r}
+x<- 1:10
+y<- 21:30
+
+plot(x,y)
+```
