@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Data Science Webpage"
   left:
     - text: "Home"
       href: index.html

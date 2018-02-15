@@ -1,5 +1,0 @@
----
-title: "My other Page"
----
-
-other things in this website
