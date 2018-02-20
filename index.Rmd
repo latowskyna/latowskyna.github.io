@@ -4,7 +4,12 @@ title: "My Website"
 <figure>
 <img src ="DSC_0813.jpg" alt = "Nile" align = "right" hspace = "50" style = "width:100px; height:150px;">
 </figure>
-Hello, Website!SEND HELP CODING IS A CURSED BLESSING
+
+Personel Mission Statement:
+    To develop knowledge, skills and abilities that allow me to work with and improve the perfromance of others around me.  After undergrad I will be turning my attention towards developing applied skills, traveling and getting more expereince in the real world.
+    
+Current Work:
+    Currently I am working in a [Human Resources Research lab](https://iohrm.appstate.edu/HR-Science/team-members), along with [Yasmin Ayala-Johnson]().  Our team has focused on many projects over the years.  Currently the Research lab is in engaged with four different projects.  My focus within the lab pretains to [Corporate Social Responsiblity](http://journals.sagepub.com/doi/pdf/10.1177/000765030003900302) and how it can affect an organizations perception towards potential applicants.  Thus, far our research has lead us to show their are four different types of CSR   
 ```{r}
 x<- 1:10
 y<- 21:30
