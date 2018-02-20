@@ -8,6 +8,8 @@ navbar:
       href: about.html
     - text: "Thesis"
       href: Project.html
+    - text: "Resume"
+      href: Leadership.html
 output:
   html_document:
     theme: yeti

@@ -1,0 +1,9 @@
+---
+title: "Resume"
+---
+
+Duing my time at Appalachian State Unviersity I have been given the priviledge to work for Orientation.  This organization has helped me develop and grow as a leader.  Here is a video that prides insight on what it means to work for orientation.
+
+<figure align = "middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzh8AwstP-M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</figure>
