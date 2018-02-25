@@ -2,7 +2,7 @@
 title: "Interest Page"
 ---
 
-* I am currently working on my honors thesis.  This work is an extention of previous research conduceted by Blenida, Westerman and Bergman (2017).
+* I am currently working towards completeing my honors thesis.  This work is an extention of a previous study by Blenida, Westerman and Bergman (2017).
 
 * Below is a PDF of a confrence submission that summarizes my honors thesis.  The confrence is [RCIO](https://www.utc.edu/psychology/rcio/index.php) and is held in the beautiful city of Chattanooga, TN.   
 
