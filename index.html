@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>My Website</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Data Science Webpage</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="Project.html">Thesis</a>
+</li>
+<li>
+  <a href="Leadership.html">Resume</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">My Website</h1>
+
+</div>
+
+
+<figure>
+<img src ="DSC_0813.jpg" alt = "Nile" align = "right" hspace = "50" style = "width:100px; height:150px;">
+</figure>
+<p><em>Personel Mission Statement:</em></p>
+<ul>
+<li>To develop knowledge, skills and abilities that allow me to work with and improve the perfromance of others around me. After undergrad I will be turning my attention towards developing applied skills, traveling and getting more expereince in the real world.</li>
+</ul>
+<hr>
+<p><em>Current Work:</em></p>
+<ul>
+<li><p>Currently I am working in a <a href="https://iohrm.appstate.edu/HR-Science/team-members">Human Resources Research lab</a>, along with <a href="https://yasminayalajohnson.github.io/">Yasmin Ayala-Johnson</a>. Our team has focused on many projects over the years. Currently the Research lab is in engaged with four different projects. My focus within the lab pretains to <a href="http://journals.sagepub.com/doi/pdf/10.1177/000765030003900302">Corporate Social Responsiblity</a> and how it can affect an organizations perception towards potential applicants.</p></li>
+<li><p><em>Corporate Social Responsibility</em> (CSR), is an organization’s efforts towards obligations at different levels - economic, legal, environmental, and philanthropic - it holds towards its internal and external stakeholders that take the form of practices or policies an organization implements in order to provide a beneficial impact to its communities.</p></li>
+<li><p>Thus, far our rstudies have showed us their are four different types of CSR (Economic, Legal, Philanthropic, Environmental).</p></li>
+<li><p>Each type can infleunce an individuals level of attraction towards an organization. The power point below will support this claim.</p></li>
+<li><p>The frist five initial slides explain the four CSR type, the research questions, methodoligies and Independent and Dependent variables.</p></li>
+<li><p>The studies methodology used a 2 by 5 factorial model. There were four pages of CSR information (Economic, Legal, Philanthropic, Environmental) and one control page with no CSR information. Each information page was displayed on a corporate website medium and/or a Facebook medium. Applicants were shown one of the infomration types at random and saw both types of mediums it was presented on.</p></li>
+</ul>
+<iframe src="./initial_study_results_nile.pdf" width="100%" height="700px">
+</iframe>
+<hr>
+<p><strong>Summaized Results</strong></p>
+<ul>
+<li><p>The results showed that CSR information is most effective online when it is displayed on both a corporate website and Facebook medium.</p></li>
+<li><p>The results showed a mediation effect that when an organization displays socially responsible information it will increases an organizations perceived level of CSR, which increases the organization’s level of attraction.</p></li>
+<li><p>The types of CSR that will increase an organization’s level of attraction through the mediation effect stated above are philanthropic, environmental, and legal CSR information. Economic CSR did not significantly increase an organization’s level of attraction.</p></li>
+</ul>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

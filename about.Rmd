@@ -4,12 +4,21 @@ title: "About Nile LaTowsky"
 
 Updated: **Personal Mission** 
 
-Currently, I am just trying to graduate from Appalachian State University with a degree in Psychology and a minor in Statistics.  After College I am setting my sights towards earning a certification in being an E.M.T.
+* Currently, I am just trying to graduate from Appalachian State University with a degree in Psychology and a minor in Statistics.  After College I am setting my sights towards earning a certification in being an E.M.T.
 
-Here is a link to my [personal email](https://mail.google.com/mail/u/0/#inbox), enjoy!!!
+* Here is a link to my [personal email](https://mail.google.com/mail/u/0/#inbox), enjoy!!!
 
-And my [GitHub](github.com/latowskyna/latowskyna.github.io)
+* And my [LinkedIn](https://www.linkedin.com/feed/)
+
 
 <figure align = "middle">
 <img src ="DSC_0813.jpg" alt = "Nile" style = "width:300px; height:500px;">
+</figure>
+
+<hr>
+
+* I have been learning to work with data throughout my college career.  Even though it can feel extremely overwhelming at times it can show some pretty interesting patterns.  The video below shows an America's time usage over a 24 hour period. This data set is take from American Department of Labor Bureau of Labor and Statistics in 2014, and was run by.
+
+<figure align = "middle">
+<iframe width="560" height="315" src="time_use_data.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </figure>
